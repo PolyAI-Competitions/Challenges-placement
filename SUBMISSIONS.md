@@ -54,6 +54,22 @@ Expliquez votre architecture et vos choix techniques.
 
 ---
 
+## Code Généré par LLM (ChatGPT, Claude, Copilot, etc.)
+
+Soyons clairs : **l'utilisation d'LLM est autorisée**. Cependant :
+
+- **Mentionnez explicitement** si du code a été généré par un LLM (dans le README ou les commentaires)
+- Ce n'est **pas pénalisant** d'utiliser des outils IA pour générer du code
+- **Mais** : Nous jugerons avec plus d'exigence les soumissions avec code généré
+
+Ce qui compte vraiment : **comprendre les concepts et savoir expliquer votre code**.
+
+Si vous utilisez un LLM :
+- Mentionnez-le clairement
+- Assurez-vous de comprendre les concepts
+
+---
+
 ## Checklist Avant Push
 
 - Code exécutable sans erreur
